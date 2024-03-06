@@ -11,4 +11,4 @@
 * JavaScript
 
 ## Link do jogo: 
-### https://jogo-do-numero-secreto-orpin-eight.vercel.app/
+https://jogo-do-numero-secreto-orpin-eight.vercel.app/
